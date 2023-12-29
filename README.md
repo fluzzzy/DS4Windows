@@ -1,2 +1,2 @@
 # DS4Windows
-Manette PS4 / Pc / Xbox | DS4 Windows
+Pour jouer a des jeux qui ne sont pas disponnible sur la manette de PS4
